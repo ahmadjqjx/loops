@@ -14,19 +14,16 @@ for(let i=1;i<=100;i=i+2){
 
 let j=1;
 while(j<=100){
-        console.log(i)
+        console.log(j)
         j=j+2;
 
 }
 
 let name = prompt("enter your name:")
-console.log(name){
-}
+console.log(name);
 
 while (name.length<3){
     name=prompt("enter your correct name:")
 }
- 
 
-
-let username = 
+let username = ""; 
